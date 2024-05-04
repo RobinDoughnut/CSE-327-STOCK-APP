@@ -1,0 +1,2 @@
+The Stock Market application is a website project designed to simulate the process of buying, selling and quoting specific stocks from Dhaka Stock Exchange.The primary objective of this project is to create a user-friendly, web-based platform that familiarizes the user of trading and maintaining a stock portfolio.
+This app is made for the course CSE327 Software Engineering from North South University in the Academic year 2024.
